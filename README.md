@@ -7,7 +7,7 @@ This is a solution to the [Multi-Step-Form challenge on Frontend Mentor](https:/
 
 ### ♨ Screenshot
 
-![](Multi-Step-Form-by-rabica.PNG)
+![](Multi-Step-Form-by-rabica.png)
 
 
 ### 🔗Links
